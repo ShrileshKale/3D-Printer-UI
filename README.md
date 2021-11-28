@@ -1,7 +1,7 @@
 # 3D-Printer-UI
-source code for 3d printer 
+## Source code for 3d printer UI based on python tkinter library and serial communication with teensy microcontroller.
 
 
-<img src="./capture.PNG"/>
+<img src="./Capture.PNG"/>
 
 
