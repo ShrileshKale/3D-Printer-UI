@@ -2,4 +2,6 @@
 source code for 3d printer 
 
 
-<img src="./capture.png"/>
+<img src="./capture.PNG"/>
+
+
