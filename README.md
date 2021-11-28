@@ -2,4 +2,4 @@
 source code for 3d printer 
 
 
-![capture](capture.png)
+<img src="./capture.png"/>
